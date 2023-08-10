@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    font-family: sans-serif;
+}
+
+.datas {
+    color: #FFF;
+    font-family: Graphik;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px; /* 116.667% */
+}
+
+.about {
+    color: rgba(255, 255, 255, 0.70);
+    font-family: Nunito Sans;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 39px; /* 185.714% */
+    letter-spacing: -0.657px;
+}
+
+#navbar{
+    background: #19191B;
+}
+.navbar-brand img{
+    width: 76.548px;
+    height: 66.548px;
+}
+.navbar-brand span{
+    padding-left: 10px;
+}
+.navbar-toggler img{
+    font-size: 30px;
+    color: #FFF;
+}
+
+.btn{
+    position: relative;
+    left: 30%;
+}
+.collapse .btn{
+    color: #BABABB;
+    text-decoration: none;
+    border: 0 solid;
+    border-radius: 3px;
+    transition: 0.5s;
+    border: 0.664px solid #FFF;
+}
+
+.collapse .btn:hover{
+    cursor: pointer;
+}
+
+.nav-link{
+    font-weight:500;
+    font-family:sans-serif;
+}
+
+#header {
+    background-color: #19191B;
+}
+
+#best-choice {
+    background-color: #19191B;
+}
+
+#service {
+    background-color: #19191B;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#portfolio {
+    background-color: #19191B;
+}
+
+#contact {
+    background-color: #19191B;
+}
+
+.button_contact {
+    color: #BABABB;
+    text-decoration: none;
+    border: 0 solid;
+    border-radius: 3px;
+    transition: 0.5s;
+    border: 0.664px solid #FFF;
+}
+
+.button_contact:hover{
+    cursor: pointer;
+}
+
+.contact_btn {
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#footer {
+    background-color: #19191B;
+}
